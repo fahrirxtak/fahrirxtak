@@ -10,9 +10,9 @@
 I'm passionate about learning and building tech that makes life easier. Currently exploring web development and software engineering with a strong interest in both frontend and backend technologies.
 
 ### 🌱 Currently Learning
-- 🔧 PHP (Native & Laravel)
+- 🔧 PHP (Laravel)
 - 🖼️ Tailwind CSS & UI/UX Design
-- ⚡ JavaScript (Vanilla & Frameworks)
+- ⚡ JavaScript (Vanilla, Vuejs, Reactjs)
 - 📚 Database Management (MySQL)
 
 ### 🤝 Open to Collaborate On
